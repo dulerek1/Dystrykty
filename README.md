@@ -71,10 +71,13 @@ Po zmianach wykonaj:
 
 | Komenda            | Opis                      | Wymagane uprawnienie |
 | ------------------ | ------------------------- | -------------------- |
-| `/dystrykt`        | Główna komenda pluginu    | `dystrykt.use`       |
-| `/dystrykt create` | Tworzy dystrykt           | `dystrykt.create`    |
-| `/dystrykt remove` | Usuwa dystrykt            | `dystrykt.remove`    |
-| `/dystrykt reload` | Przeładowuje konfigurację | `dystrykt.admin`     |
+| `/admindystrykt`        | Główna komenda pluginu    | `dystrykt.use`       |
+| `/admindystrykt create` | Tworzy dystrykt           | `dystrykt.create`    |
+| `/admindystrykt remove` | Usuwa dystrykt            | `dystrykt.remove`    |
+| `/admindystrykt reload` | Przeładowuje konfigurację | `dystrykt.admin`     |
+| `/admindystrykt nazwa` | Zmienia nazwę dystryktu | `dystrykt.nazwa`     |
+| `/admindystrykt lider` | dodaje lidera dystryktu | `dystrykt.lider`     |
+| `/admindystrykt dodaj` | Dodaje gracza do dystryktu bez zaproszenia | `dystrykt.dodaj`     |
 
 ---
 
