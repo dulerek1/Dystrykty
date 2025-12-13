@@ -1,4 +1,4 @@
-# Dystrykt
+# <:Beznazwsy1:1442902205257617501> Dystrykt
 
 Plugin **Dystrykt** to rozszerzenie do serwerów Minecraft (Spigot/Paper), które dodaje system dystryktów z dodatkowymi funkcjami zarządzania i interakcji z graczami.
 
