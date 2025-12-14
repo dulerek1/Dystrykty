@@ -120,4 +120,4 @@ Jeśli znajdziesz błąd, zgłoś go na discordzie **SkyFox** na tickecie.
 
 ---
 
-## Cena 10 złotych
+## Za darmo
