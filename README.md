@@ -116,6 +116,8 @@ Po zmianach wykonaj:
 
 * Brak
 
+##CENA: 10 Złotych
+
 Jeśli znajdziesz błąd, zgłoś go na discordzie **SkyFox** na tickecie.
 
 ---
